@@ -2,7 +2,7 @@
 
 Code and data objects for ACTOR
 
-# RCode
+* RCode
 
     * [actorAnalyses](https://github.com/mccabes292/actorPaper/tree/master/RCode/actorAnalyses)
 
