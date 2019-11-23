@@ -1,6 +1,8 @@
 ## actorPaper
 
 Code and data objects for ACTOR
+* data
+    * [realData](https://github.com/mccabes292/actorPaper/tree/master/data/realData) - Real Data
 
 * RCode
     * [referencePanel](https://github.com/mccabes292/actorPaper/tree/master/code/referencePanel) - Code for pre-processing GTEx as a reference panel.
