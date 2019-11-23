@@ -1,6 +1,6 @@
 ## actorPaper
 
-Code and data objects for ACTOR
+Code and data objects for [ACTOR](https://github.com/mccabes292/actor).
 * data
     * [realData](https://github.com/mccabes292/actorPaper/tree/master/data/realData) - Real Data
 
